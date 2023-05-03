@@ -1,0 +1,21 @@
+body{
+  background: black;
+  
+}
+
+.botonAnswer{
+  border: none;
+}
+.imgQuiz{
+  height: 50%;
+  width: 50%;
+  align-self: center;
+
+}
+.centrar{
+  margin-left: 400px;
+}
+.botonReload{
+  background-color: rgba(127, 192, 29, 0.89);
+  color: aliceblue;
+}

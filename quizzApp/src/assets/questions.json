@@ -1,0 +1,123 @@
+[
+    {"image":"https://www.biografiasyvidas.com/monografia/picasso/fotos/picasso_420.jpg",
+    "text":"¿Donde nacio el artista español Pablo Picasso?",
+    "answer":[
+        {"text":"Galicia", "isCorrect":false},
+        {"text":"Sevilla", "isCorrect":false},
+        {"text":"Malaga", "isCorrect":true}
+    ]},
+    {"image":"https://mymodernmet.com/wp/wp-content/uploads/2021/09/beyond-monet-exhibition-photos-8.jpg",
+        "text":"¿Cual es el nombre de la pintura realizada por el artista Claude Monet que dio inicio al impresionismo? ",
+    "answer":[
+        {"text":"sol naciente", "isCorrect":true},
+        {"text":"las meninas", "isCorrect":false},
+        {"text":"frente al puerto", "isCorrect":false}
+    
+    ]},
+    {"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg/290px-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+        "text":"¿Rembrandt a que escuela de arte pertenecio?",
+    "answer":[
+        {"text":"escuela genovesa", "isCorrect":false},
+        {"text":"escuela veneciana", "isCorrect":false},
+        {"text":"epoca dorada del arte holandes", "isCorrect":true}
+    
+    ]
+    },
+    {"image":"https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbnljLTItMjY4LmpwZyIsInJlc2l6ZSw4MDAiXX0.oHuiNXMeCqBT1fa5I9ddteiMiKkLQ_e1lyF6l8uUsWo.jpg",
+     "text":"¿cual es el nombre de esta pintura realizada por Salvador Dali?",
+     "answer":[
+        {"text":"La metamorfosis de Narciso", "isCorrect":false},
+        {"text":"La tentación de San Antonio", "isCorrect":false},
+        {"text":"La persistencia de la memoria", "isCorrect":true}
+     ]
+    },
+    {"image":"https://historiadelartebachillerato.files.wordpress.com/2016/02/tc3ba-que-puedes.jpg",
+     "text":"¿a que serie de grabados de francisco de Goya pertenece esta imagen?",
+     "answer":[
+        {"text":"Tauromaquia", "isCorrect":false},
+        {"text":"Los desastres de la guerra", "isCorrect":false},
+        {"text":"Los caprichos", "isCorrect":true}
+     ]
+    },
+    {"image":"https://media.traveler.es/photos/61376810030de94d067fc8e0/master/w_1600%2Cc_limit/163578.jpg",
+    "text":"¿A que artista pertenece esta obra iconica del surrealismo?",
+    "answer":[
+       {"text":"Joan Miro", "isCorrect":false},
+       {"text":"Salvador Dali", "isCorrect":false},
+       {"text":"Rene Magritte", "isCorrect":true}
+    ]
+   },
+   {"image":"https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/04/04180521/Elliott-Erwit-Magnum-Photos-1024x670.jpg",
+   "text":"¿En que año fue pintada la famosa obra de Picasso: 'El Guernica'?",
+   "answer":[
+      {"text":"1906", "isCorrect":false},
+      {"text":"1953", "isCorrect":false},
+      {"text":"1937", "isCorrect":true}
+   ]
+  },
+  {"image":"https://cdn0.unprofesor.com/es/posts/6/6/5/el_beso_1907_1908_una_de_las_obras_de_klimt_mas_importantes_4566_5_600.jpg",
+  "text":"¿como se llama la obra?",
+  "answer":[
+     {"text":"Maternidad", "isCorrect":false},
+     {"text":"Nuestros años", "isCorrect":false},
+     {"text":"El beso", "isCorrect":true}
+  ]
+ },
+ {"image":"https://images.hola.com/imagenes/viajes/20201216181153/la-capilla-sixtina-como-nunca-antes-la-habias-visto/0-901-648/capilla-sixtina-vaticano-roma-a.jpg",
+ "text":"¿Donde esta ubicada esta obra de Miguel Angel?",
+ "answer":[
+    {"text":"Florencia", "isCorrect":false},
+    {"text":"Venecia", "isCorrect":false},
+    {"text":"Roma", "isCorrect":true}
+ ]
+},
+{"image":"https://ychef.files.bbci.co.uk/976x549/p06737w1.jpg",
+"text":"¿A que artista pertenece esta obra?",
+"answer":[
+   {"text":"Francis Bacon", "isCorrect":false},
+   {"text":"Edgar Davis", "isCorrect":false},
+   {"text":"Lucian Freud", "isCorrect":true}
+]
+},
+{"image":"https://lh3.googleusercontent.com/ci/AEwo86cDInJ6XGYsw7uZ9CQ5uv5ASMYWskJuZs1a5DCWqggcg-oHvpsurzTRETgDmDd9j7UJaLJJfLc",
+"text":"¿Para quien pinto a modo de regalo Vincent van Gogh los famosos girasoles?",
+"answer":[
+   {"text":"Camille Pisarro", "isCorrect":false},
+   {"text":"Claude Monet", "isCorrect":false},
+   {"text":"Paul Gauguin", "isCorrect":true}
+]
+},
+{"image":"https://alma-de-chiapas.com/wp-content/uploads/2022/01/El-Venado-Herido.jpg",
+"text":"¿como se llama la obra?",
+"answer":[
+   {"text":"La primera hora", "isCorrect":false},
+   {"text":"Caceria", "isCorrect":false},
+   {"text":"El venado herido", "isCorrect":true}
+]
+},
+{"image":"https://3minutosdearte.com/wp-content/uploads/2016/11/Kirchner-Chica-sentada-Fr%C3%A4nzi-Fehrmann-1910-e1530652229186.jpg",
+"text":"¿En que pais surgio el movimiento expresionista conocido como 'Die Brücke'?",
+"answer":[
+   {"text":"Austria", "isCorrect":false},
+   {"text":"Francia", "isCorrect":false},
+   {"text":"Alemania", "isCorrect":true}
+]
+},
+{"image":"https://www.bellasartes.gob.ar/media/uploads/coleccion/3659.jpg",
+"text":"¿El beso de Rodin fue pensada originalmente para ser colocada en que lugar?",
+"answer":[
+   {"text":"Los jardines eliseos", "isCorrect":false},
+   {"text":"El museo del Louvre", "isCorrect":false},
+   {"text":"Las puertas del infierno", "isCorrect":true}
+]
+},
+{"image":"https://www.bellasartes.gob.ar/media/uploads/coleccion/6401.jpg",
+"text":"¿como se llama la obra?",
+"answer":[
+   {"text":"La Anunciacion de El Greco", "isCorrect":false},
+   {"text":"Los años fatales de Frida Khalo", "isCorrect":false},
+   {"text":"El drama de Raquel Forner", "isCorrect":true}
+]
+}
+
+]
